@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="504" viewBox="0 0 1200 504" role="img" aria-label="ERP/MES architecture: machines send data over MQTT to the MES, which integrates with the ERP through a REST API; React dashboards">
+  <title>ERP/MES architecture: machines send data over MQTT to the MES, which integrates with the ERP through a REST API; React dashboards</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A14"/>
+      <stop offset="1" stop-color="#0D1430"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C2747"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    
+<marker id="ah-t" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2DD4BF"/></marker>
+<marker id="ah-v" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A78BFA"/></marker>
+<marker id="ah-c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#38BDF8"/></marker>
+<marker id="ah-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FBBF24"/></marker>
+
+    <clipPath id="frameclip"><rect width="1200" height="504" rx="18"/></clipPath>
+  </defs>
+  <style>
+.flow { animation: flow 1.6s linear infinite; }
+.flowr { animation: flowr 1.6s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -24; } }
+@keyframes flowr { to { stroke-dashoffset: 24; } }
+.box { animation: pop .6s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes pop { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+.spin { animation: spin 6s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+</style>
+  <g clip-path="url(#frameclip)">
+    <rect width="1200" height="504" fill="url(#bg)"/>
+    <rect width="1200" height="504" fill="url(#dots)" opacity="0.55"/>
+    <text x="40" y="52" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.5" fill="#2DD4BF">YOHATECH  ·  END-OF-STUDIES PROJECT</text><text x="40" y="84" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="27" fill="#E8EEF9">ERP / MES platform for industrial production</text><text x="40" y="112" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16.5" fill="#8C98B8">Shop-floor data to business decisions, end to end.</text><g transform="translate(0,34)"><g class="box" style="animation-delay:0.0s">
+  <rect x="40" y="150" width="180" height="170" rx="14" fill="#0B1226" stroke="#FBBF24" stroke-opacity="0.7" stroke-width="1.5"/>
+  <rect x="40" y="150" width="180" height="4" rx="2" fill="#FBBF24"/>
+  <text x="58" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="21" fill="#E8EEF9">Machines</text>
+  <text x="58" y="210" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#FBBF24">shop floor</text>
+  <rect x="62" y="232" width="32" height="54" rx="4" fill="#FBBF24" fill-opacity="0.15" stroke="#FBBF24" stroke-opacity=".5"/><rect x="106" y="240" width="32" height="46" rx="4" fill="#FBBF24" fill-opacity="0.27" stroke="#FBBF24" stroke-opacity=".5"/><rect x="150" y="232" width="32" height="54" rx="4" fill="#FBBF24" fill-opacity="0.39" stroke="#FBBF24" stroke-opacity=".5"/>
+</g><g class="box" style="animation-delay:0.15s">
+  <rect x="330" y="120" width="280" height="240" rx="14" fill="#0B1226" stroke="#2DD4BF" stroke-opacity="0.7" stroke-width="1.5"/>
+  <rect x="330" y="120" width="280" height="4" rx="2" fill="#2DD4BF"/>
+  <text x="348" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="21" fill="#E8EEF9">MES</text>
+  <text x="348" y="180" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#2DD4BF">FastAPI · PostgreSQL</text>
+  <g transform="translate(348,200)"><rect width="184" height="26" rx="13.0" fill="#2DD4BF" fill-opacity="0.06" stroke="#2DD4BF" stroke-opacity="0.55"/><text x="92.0" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#2DD4BF">production · orders</text></g><g transform="translate(348,233)"><rect width="184" height="26" rx="13.0" fill="#2DD4BF" fill-opacity="0.06" stroke="#2DD4BF" stroke-opacity="0.55"/><text x="92.0" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#2DD4BF">machines · downtime</text></g><g transform="translate(348,266)"><rect width="176" height="26" rx="13.0" fill="#2DD4BF" fill-opacity="0.06" stroke="#2DD4BF" stroke-opacity="0.55"/><text x="88.0" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#2DD4BF">OEE · traceability</text></g><text x="348" y="335" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8C98B8">real-time monitoring</text>
+</g><g class="box" style="animation-delay:0.3s">
+  <rect x="720" y="120" width="280" height="240" rx="14" fill="#0B1226" stroke="#A78BFA" stroke-opacity="0.7" stroke-width="1.5"/>
+  <rect x="720" y="120" width="280" height="4" rx="2" fill="#A78BFA"/>
+  <text x="738" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="21" fill="#E8EEF9">ERP</text>
+  <text x="738" y="180" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#A78BFA">FastAPI · PostgreSQL</text>
+  <g transform="translate(738,200)"><rect width="176" height="26" rx="13.0" fill="#A78BFA" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.55"/><text x="88.0" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#A78BFA">stock · production</text></g><g transform="translate(738,233)"><rect width="167" height="26" rx="13.0" fill="#A78BFA" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.55"/><text x="83.5" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#A78BFA">purchases · sales</text></g><g transform="translate(738,266)"><rect width="158" height="26" rx="13.0" fill="#A78BFA" fill-opacity="0.06" stroke="#A78BFA" stroke-opacity="0.55"/><text x="79.0" y="18.04" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" fill="#A78BFA">dashboard · auth</text></g><text x="738" y="335" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8C98B8">business management</text>
+</g><g class="box" style="animation-delay:0.45s">
+  <rect x="1050" y="150" width="115" height="170" rx="14" fill="#0B1226" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="1.5"/>
+  <rect x="1050" y="150" width="115" height="4" rx="2" fill="#38BDF8"/>
+  <text x="1068" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="700" font-size="21" fill="#E8EEF9">UI</text>
+  <text x="1068" y="210" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#38BDF8">React</text>
+  <text x="1068" y="258" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8C98B8">Tailwind</text><text x="1068" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8C98B8">dashboards</text>
+</g><line x1="222" y1="235" x2="326" y2="235" stroke="#FBBF24" stroke-width="2" stroke-dasharray="7 5" class="flow" marker-end="url(#ah-a)"/><text x="274.0" y="222" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#FBBF24">MQTT</text><line x1="612" y1="210" x2="716" y2="210" stroke="#2DD4BF" stroke-width="2" stroke-dasharray="7 5" class="flow" marker-end="url(#ah-t)"/><text x="664.0" y="197" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#2DD4BF">REST API</text><line x1="716" y1="270" x2="612" y2="270" stroke="#A78BFA" stroke-width="2" stroke-dasharray="7 5" class="flow" marker-end="url(#ah-v)"/><line x1="1002" y1="235" x2="1046" y2="235" stroke="#38BDF8" stroke-width="2" stroke-dasharray="7 5" class="flow" marker-end="url(#ah-c)"/><line x1="40" y1="388" x2="1160" y2="388" stroke="#1C2747"/><text x="40" y="428" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#56628A">6 CORE MODULES</text><g transform="translate(200,408)"><rect width="147" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="73.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">user management</text></g><g transform="translate(356,408)"><rect width="181" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="90.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">production tracking</text></g><g transform="translate(546,408)"><rect width="97" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="48.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">inventory</text></g><g transform="translate(652,408)"><rect width="181" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="90.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">machine maintenance</text></g><g transform="translate(842,408)"><rect width="147" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="73.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">supplier orders</text></g><g transform="translate(998,408)"><rect width="97" height="28" rx="14.0" fill="#E8EEF9" fill-opacity="0.04" stroke="#E8EEF9" stroke-opacity="0.55"/><text x="48.5" y="18.86" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13.5" fill="#E8EEF9">reporting</text></g></g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="503" rx="18" fill="none" stroke="#1C2747"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="426" viewBox="0 0 1200 426" role="img" aria-label="Terminal: whoami — Afef Ben Kalia, Full Stack Developer; profile summary; open to junior Full Stack Developer roles">
+  <title>Terminal: whoami — Afef Ben Kalia, Full Stack Developer; profile summary; open to junior Full Stack Developer roles</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A14"/>
+      <stop offset="1" stop-color="#0D1430"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C2747"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    
+    <clipPath id="frameclip"><rect width="1200" height="426" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .ln { animation: ln .35s ease-out both; }
+    @keyframes ln { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    .caret { animation: blinkc 1s steps(1) infinite; }
+    @keyframes blinkc { 50% { opacity: 0; } }
+    </style>
+  <g clip-path="url(#frameclip)">
+    <rect width="1200" height="426" fill="url(#bg)"/>
+    <rect width="1200" height="426" fill="url(#dots)" opacity="0.55"/>
+    
+    <rect width="1200" height="46" fill="#0B1226"/>
+    <line x1="0" y1="46" x2="1200" y2="46" stroke="#1C2747"/>
+    <circle cx="28" cy="23" r="6.5" fill="#FF5F57"/><circle cx="50" cy="23" r="6.5" fill="#FEBC2E"/><circle cx="72" cy="23" r="6.5" fill="#28C840"/>
+    <text x="600.0" y="28" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" fill="#8C98B8">afef@sousse — ~/profile — zsh</text>
+    <text x="36" y="92" class="ln" style="animation-delay:0.30s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#2DD4BF">afef</tspan><tspan fill="#56628A">@</tspan><tspan fill="#38BDF8">sousse</tspan><tspan fill="#56628A">:~$ </tspan><tspan fill="#E8EEF9">whoami</tspan></text><text x="36" y="119" class="ln" style="animation-delay:0.75s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#E8EEF9">Afef Ben Kalia</tspan><tspan fill="#8C98B8">: full-stack developer who turns requirements into shipped, tested products</tspan></text><text x="36" y="159.5" class="ln" style="animation-delay:1.00s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#2DD4BF">afef</tspan><tspan fill="#56628A">@</tspan><tspan fill="#38BDF8">sousse</tspan><tspan fill="#56628A">:~$ </tspan><tspan fill="#E8EEF9">cat profile.yml</tspan></text><text x="36" y="186.5" class="ln" style="animation-delay:1.45s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  role</tspan><tspan fill="#56628A">:          </tspan><tspan fill="#E8EEF9">Full Stack Developer</tspan></text><text x="36" y="213.5" class="ln" style="animation-delay:1.63s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  main_stack</tspan><tspan fill="#56628A">:    </tspan><tspan fill="#FBBF24">[React, Next.js, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL, Prisma]</tspan></text><text x="36" y="240.5" class="ln" style="animation-delay:1.81s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  ai</tspan><tspan fill="#56628A">:            </tspan><tspan fill="#FBBF24">[AI agents, agent skills, dynamic agentic workflows, AI-assisted development]</tspan></text><text x="36" y="267.5" class="ln" style="animation-delay:1.99s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  studying</tspan><tspan fill="#56628A">:      </tspan><tspan fill="#E8EEF9">Engineering Cycle in Cloud Computing &amp; Networks @ EPI Digital School</tspan></text><text x="36" y="294.5" class="ln" style="animation-delay:2.17s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  ways_of_work</tspan><tspan fill="#56628A">:  </tspan><tspan fill="#FBBF24">[Agile Scrum, UML modeling, requirements gathering, product ownership]</tspan></text><text x="36" y="321.5" class="ln" style="animation-delay:2.35s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#A78BFA">  speaks</tspan><tspan fill="#56628A">:        </tspan><tspan fill="#FBBF24">[Arabic: native, French: intermediate, English: intermediate]</tspan></text><text x="36" y="362.0" class="ln" style="animation-delay:2.53s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#2DD4BF">afef</tspan><tspan fill="#56628A">@</tspan><tspan fill="#38BDF8">sousse</tspan><tspan fill="#56628A">:~$ </tspan><tspan fill="#E8EEF9">./status --now</tspan></text><text x="36" y="389.0" class="ln" style="animation-delay:2.98s" xml:space="preserve" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="16.5"><tspan fill="#34D399">  ● </tspan><tspan fill="#E8EEF9">open to </tspan><tspan fill="#34D399" font-weight="700">junior Full Stack Developer</tspan><tspan fill="#E8EEF9"> roles</tspan><tspan fill="#56628A">  ·  based in Sousse, Tunisia</tspan></text>
+    
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="425" rx="14" fill="none" stroke="#1C2747"/>
+</svg>

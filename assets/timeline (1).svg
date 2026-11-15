@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-label="Payment Management: Sessions, payslips and payment tracking for managers, coordinators and trainers.">
+  <title>Payment Management: Sessions, payslips and payment tracking for managers, coordinators and trainers.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A14"/>
+      <stop offset="1" stop-color="#0D1430"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C2747"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".07"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
+    <clipPath id="frameclip"><rect width="600" height="340" rx="16"/></clipPath>
+  </defs>
+  <style>
+.in { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.scan { animation: scan 5s ease-in-out infinite; }
+@keyframes scan { 0% { transform: translateX(-200px); } 60%,100% { transform: translateX(800px); } }
+</style>
+  <g clip-path="url(#frameclip)">
+    <rect width="600" height="340" fill="url(#bg)"/>
+    <rect width="600" height="340" fill="url(#dots)" opacity="0.55"/>
+    
+    <circle cx="560" cy="0" r="160" fill="#A78BFA" opacity="0.14" filter="url(#soft)"/>
+    <rect x="0" y="0" width="160" height="340" fill="url(#sheen)" class="scan" opacity="0.5"/>
+    <g class="in">
+      <text x="32" y="48" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" letter-spacing="2.2" fill="#A78BFA">TRAINING-CENTER PAYMENTS</text>
+      <text x="32" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="36" fill="#E8EEF9" letter-spacing="-0.5">Payment Management</text>
+      <text x="566" y="62" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="30" fill="#A78BFA" opacity="0.85">$_</text>
+    </g><text x="32" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19.5" fill="#8C98B8" class="in" style="animation-delay:.15s">Sessions, payslips and payment tracking for</text><text x="32" y="158" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19.5" fill="#8C98B8" class="in" style="animation-delay:.15s">managers, coordinators and trainers.</text><g class="in" style="animation-delay:.3s"><g transform="translate(32,192)"><rect width="87" height="30" rx="15.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55"/><text x="43.5" y="20.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#A78BFA">3 roles</text></g></g><g class="in" style="animation-delay:.3s"><g transform="translate(127,192)"><rect width="180" height="30" rx="15.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55"/><text x="90.0" y="20.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#A78BFA">OCR RIB auto-fill</text></g></g><g class="in" style="animation-delay:.3s"><g transform="translate(315,192)"><rect width="189" height="30" rx="15.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55"/><text x="94.5" y="20.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#A78BFA">PDF + Excel export</text></g></g><g class="in" style="animation-delay:.3s"><g transform="translate(32,230)"><rect width="142" height="30" rx="15.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55"/><text x="71.0" y="20.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#A78BFA">Chart.js KPIs</text></g></g><line x1="32" y1="282" x2="568" y2="282" stroke="#1C2747"/><text x="32" y="314" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="15" fill="#E8EEF9" opacity="0.85" class="in" style="animation-delay:.45s">Next.js 15 · React 19 · Prisma · MySQL · NextAuth</text>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="16" fill="none" stroke="#1C2747"/>
+</svg>

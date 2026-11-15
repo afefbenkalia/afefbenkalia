@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="22" viewBox="0 0 1200 22" role="img" aria-label="divider">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#2DD4BF"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
+<style>.d { animation: m 4.5s ease-in-out infinite; } @keyframes m { 0% { transform: translateX(150px); } 50% { transform: translateX(1050px); } 100% { transform: translateX(150px); } }</style>
+<rect x="0" y="10" width="1200" height="1.5" fill="url(#g)"/>
+<circle cx="0" cy="10.75" r="9" fill="url(#p)" class="d"/>
+</svg>

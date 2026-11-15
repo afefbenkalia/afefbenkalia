@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Thanks for stopping by. Full-stack by trade, agentic by design, secure by default.">
+  <title>Thanks for stopping by. Full-stack by trade, agentic by design, secure by default.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A14"/>
+      <stop offset="1" stop-color="#0D1430"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C2747"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    
+    <clipPath id="frameclip"><rect width="1200" height="200" rx="18"/></clipPath>
+  </defs>
+  <style>.w { animation: wave linear infinite; } @keyframes wave { to { transform: translateX(-1200px); } }</style>
+  <g clip-path="url(#frameclip)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+    <rect width="1200" height="200" fill="url(#dots)" opacity="0.55"/>
+    <path d="M0 150 Q 75 136 150 150 Q 225 164 300 150 Q 375 136 450 150 Q 525 164 600 150 Q 675 136 750 150 Q 825 164 900 150 Q 975 136 1050 150 Q 1125 164 1200 150 Q 1275 136 1350 150 Q 1425 164 1500 150 Q 1575 136 1650 150 Q 1725 164 1800 150 Q 1875 136 1950 150 Q 2025 164 2100 150 Q 2175 136 2250 150 Q 2325 164 2400 150 V 200 H 0 Z" fill="#A78BFA" fill-opacity="0.25" class="w" style="animation-duration:9s"/><path d="M0 162 Q 75 151 150 162 Q 225 173 300 162 Q 375 151 450 162 Q 525 173 600 162 Q 675 151 750 162 Q 825 173 900 162 Q 975 151 1050 162 Q 1125 173 1200 162 Q 1275 151 1350 162 Q 1425 173 1500 162 Q 1575 151 1650 162 Q 1725 173 1800 162 Q 1875 151 1950 162 Q 2025 173 2100 162 Q 2175 151 2250 162 Q 2325 173 2400 162 V 200 H 0 Z" fill="#38BDF8" fill-opacity="0.22" class="w" style="animation-duration:7s"/><path d="M0 174 Q 75 165 150 174 Q 225 183 300 174 Q 375 165 450 174 Q 525 183 600 174 Q 675 165 750 174 Q 825 183 900 174 Q 975 165 1050 174 Q 1125 183 1200 174 Q 1275 165 1350 174 Q 1425 183 1500 174 Q 1575 165 1650 174 Q 1725 183 1800 174 Q 1875 165 1950 174 Q 2025 183 2100 174 Q 2175 165 2250 174 Q 2325 183 2400 174 V 200 H 0 Z" fill="#2DD4BF" fill-opacity="0.3" class="w" style="animation-duration:11s"/>
+    <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="30" fill="#E8EEF9">Thanks for stopping by.</text>
+    <text x="600" y="100" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14" letter-spacing="2.5" fill="url(#brand)">FULL-STACK BY TRADE · AGENTIC BY DESIGN · SECURE BY DEFAULT</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="18" fill="none" stroke="#1C2747"/>
+</svg>
