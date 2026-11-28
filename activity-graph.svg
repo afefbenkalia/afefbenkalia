@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Contribution activity for afefbenkalia over the last 31 days: 9 contributions">
+<title>Contribution activity for afefbenkalia over the last 31 days: 9 contributions</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060A14"/><stop offset="1" stop-color="#0D1430"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.35"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2747"/></pattern>
+<clipPath id="frame"><rect width="1200" height="380" rx="14"/></clipPath>
+</defs>
+<style>.draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.8s ease-out forwards; }@keyframes draw { to { stroke-dashoffset: 0; } }.fade { opacity: 0; animation: fade .8s ease-out forwards; }@keyframes fade { to { opacity: 1; } }</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="380" fill="url(#bg)"/>
+<rect width="1200" height="380" fill="url(#dots)" opacity="0.55"/>
+<text x="40" y="50" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" letter-spacing="2.5" fill="#2DD4BF">LAST 31 DAYS</text>
+<text x="40" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="24" fill="#E8EEF9">Contribution activity</text>
+<text x="1160" y="80" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="26" fill="url(#brand)">9</text>
+<text x="1160" y="50" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#56628A">CONTRIBUTIONS</text>
+<line x1="76" y1="316.0" x2="1160" y2="316.0" stroke="#1C2747" stroke-dasharray="0"/>
+<text x="62" y="320.0" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#56628A">0</text>
+<line x1="76" y1="263.0" x2="1160" y2="263.0" stroke="#1C2747" stroke-dasharray="3 5"/>
+<text x="62" y="267.0" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#56628A">1</text>
+<line x1="76" y1="210.0" x2="1160" y2="210.0" stroke="#1C2747" stroke-dasharray="3 5"/>
+<text x="62" y="214.0" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#56628A">2</text>
+<line x1="76" y1="157.0" x2="1160" y2="157.0" stroke="#1C2747" stroke-dasharray="3 5"/>
+<text x="62" y="161.0" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#56628A">3</text>
+<line x1="76" y1="104.0" x2="1160" y2="104.0" stroke="#1C2747" stroke-dasharray="3 5"/>
+<text x="62" y="108.0" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#56628A">4</text>
+<text x="76.0" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Oct 29</text>
+<text x="184.4" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 1</text>
+<text x="292.8" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 4</text>
+<text x="401.2" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 7</text>
+<text x="509.6" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 10</text>
+<text x="618.0" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 13</text>
+<text x="726.4" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 16</text>
+<text x="834.8" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 19</text>
+<text x="943.2" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 22</text>
+<text x="1051.6" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 25</text>
+<text x="1160.0" y="342" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#8C98B8">Nov 28</text>
+<path d="M 76.0 263.0 L 112.1 316.0 L 148.3 316.0 L 184.4 316.0 L 220.5 316.0 L 256.7 316.0 L 292.8 316.0 L 328.9 316.0 L 365.1 316.0 L 401.2 316.0 L 437.3 316.0 L 473.5 316.0 L 509.6 316.0 L 545.7 316.0 L 581.9 316.0 L 618.0 316.0 L 654.1 157.0 L 690.3 104.0 L 726.4 316.0 L 762.5 263.0 L 798.7 316.0 L 834.8 316.0 L 870.9 316.0 L 907.1 316.0 L 943.2 316.0 L 979.3 316.0 L 1015.5 316.0 L 1051.6 316.0 L 1087.7 316.0 L 1123.9 316.0 L 1160.0 316.0 L 1160.0 316 L 76.0 316 Z" fill="url(#area)" class="fade"/>
+<path d="M 76.0 263.0 L 112.1 316.0 L 148.3 316.0 L 184.4 316.0 L 220.5 316.0 L 256.7 316.0 L 292.8 316.0 L 328.9 316.0 L 365.1 316.0 L 401.2 316.0 L 437.3 316.0 L 473.5 316.0 L 509.6 316.0 L 545.7 316.0 L 581.9 316.0 L 618.0 316.0 L 654.1 157.0 L 690.3 104.0 L 726.4 316.0 L 762.5 263.0 L 798.7 316.0 L 834.8 316.0 L 870.9 316.0 L 907.1 316.0 L 943.2 316.0 L 979.3 316.0 L 1015.5 316.0 L 1051.6 316.0 L 1087.7 316.0 L 1123.9 316.0 L 1160.0 316.0" fill="none" stroke="#2DD4BF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" pathLength="1" class="draw"/>
+<circle cx="76.0" cy="263.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.60s"><title>2026-10-29: 1</title></circle>
+<circle cx="112.1" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.64s"><title>2026-10-30: 0</title></circle>
+<circle cx="148.3" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.68s"><title>2026-10-31: 0</title></circle>
+<circle cx="184.4" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.72s"><title>2026-11-01: 0</title></circle>
+<circle cx="220.5" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.76s"><title>2026-11-02: 0</title></circle>
+<circle cx="256.7" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.80s"><title>2026-11-03: 0</title></circle>
+<circle cx="292.8" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.84s"><title>2026-11-04: 0</title></circle>
+<circle cx="328.9" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.88s"><title>2026-11-05: 0</title></circle>
+<circle cx="365.1" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.92s"><title>2026-11-06: 0</title></circle>
+<circle cx="401.2" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:0.96s"><title>2026-11-07: 0</title></circle>
+<circle cx="437.3" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.00s"><title>2026-11-08: 0</title></circle>
+<circle cx="473.5" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.04s"><title>2026-11-09: 0</title></circle>
+<circle cx="509.6" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.08s"><title>2026-11-10: 0</title></circle>
+<circle cx="545.7" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.12s"><title>2026-11-11: 0</title></circle>
+<circle cx="581.9" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.16s"><title>2026-11-12: 0</title></circle>
+<circle cx="618.0" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.20s"><title>2026-11-13: 0</title></circle>
+<circle cx="654.1" cy="157.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.24s"><title>2026-11-14: 3</title></circle>
+<circle cx="690.3" cy="104.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.28s"><title>2026-11-15: 4</title></circle>
+<circle cx="726.4" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.32s"><title>2026-11-16: 0</title></circle>
+<circle cx="762.5" cy="263.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.36s"><title>2026-11-17: 1</title></circle>
+<circle cx="798.7" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.40s"><title>2026-11-18: 0</title></circle>
+<circle cx="834.8" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.44s"><title>2026-11-19: 0</title></circle>
+<circle cx="870.9" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.48s"><title>2026-11-20: 0</title></circle>
+<circle cx="907.1" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.52s"><title>2026-11-21: 0</title></circle>
+<circle cx="943.2" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.56s"><title>2026-11-22: 0</title></circle>
+<circle cx="979.3" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.60s"><title>2026-11-23: 0</title></circle>
+<circle cx="1015.5" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.64s"><title>2026-11-24: 0</title></circle>
+<circle cx="1051.6" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.68s"><title>2026-11-25: 0</title></circle>
+<circle cx="1087.7" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.72s"><title>2026-11-26: 0</title></circle>
+<circle cx="1123.9" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.76s"><title>2026-11-27: 0</title></circle>
+<circle cx="1160.0" cy="316.0" r="3.5" fill="#A78BFA" stroke="#0D1430" stroke-width="1.5" class="fade" style="animation-delay:1.80s"><title>2026-11-28: 0</title></circle>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="379" rx="14" fill="none" stroke="#1C2747"/>
+</svg>
